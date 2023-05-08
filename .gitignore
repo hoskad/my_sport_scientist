@@ -42,4 +42,4 @@ yarn-error.log*
 *.tsbuildinfo
 
 #pdfs
-my_sport_scientist/docs
+/docs
